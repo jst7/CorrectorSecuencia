@@ -32,6 +32,6 @@ Introduces la secuencia requerida, ej: AAATTCTTG
 
 Introduces el nombre del fichero, de entrada, ej: archivo1.fastq
 
-El resultado se almacena en ```salida.fastq```
+El resultado se almacena en ```s_archivo1.fastq```
 
 *Para realizar todo el proceso los archivos deben estar en la misma carpeta del ejecutable
