@@ -9,12 +9,18 @@ En terminal:
 ```
 git clone https://github.com/jst7/CorrectorSecuencia.git
 ```
+Entramos en la carpeta:
+
+```
+cd CorrectorSecuencia
+```
 
 Para compilar, en terminal:
 
 ```
 g++ -o ejecutable main.cpp
 ```
+Los pasos anteriores solo es necesario realizarlos la primera vez.
 
 Para ejecutar:
 
