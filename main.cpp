@@ -15,7 +15,7 @@ int main(){
     cin>>archivo;
 
     ifstream fe(archivo);
-    ofstream salida("s_"+archivo+".fastq");
+    ofstream salida("salida.fastq");
 
     bool noes= true;
 
